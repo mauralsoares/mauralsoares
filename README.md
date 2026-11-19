@@ -23,3 +23,15 @@ Paper and poster: [10.5281/zenodo.24062401](https://doi.org/10.5281/zenodo.24062
 2nd International Undergraduate Research Symposium at Iscte-IUL (SIL-ISCTE 2026) — conference paper and poster.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24062401.svg)](https://doi.org/10.5281/zenodo.24062401)
+
+## Technical skills
+
+Java · Python · JavaScript · SQL · React · MongoDB · Docker · Git · Linux · VMware · VirtualBox · Cisco Packet Tracer · Power BI
+
+## Currently studying
+
+MSc in Cybersecurity and Resilience at Iscte — computer networks, operating systems and virtualisation, introduction to cybersecurity, machine learning for cybersecurity.
+
+## Languages
+
+Portuguese (native) · English (C1, Cambridge CAE) · Spanish (A2)
